@@ -12,8 +12,10 @@ My name is Ben Allen Jr.
 
  # Languages and Tools:
  <p>
-   <img src="https://banner2.cleanpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" width="80" height="50">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="80" height="80">
+   <img src="https://p1.hiclipart.com/preview/977/149/143/library-react-javascript-redux-javascript-library-html-freecodecamp-front-and-back-ends-png-clipart.jpg" width="50" height="50">
+   <img src="https://o.dlf.pt/dfpng/smallpng/524-5246146_currently-we-are-react-native-logo-white-hd.png" width="80" height="80">
+   <img src="" width="80" height="80">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" width="100" height="50">
 </p>
  
 <p>
