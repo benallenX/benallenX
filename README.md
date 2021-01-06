@@ -12,11 +12,8 @@ My name is Ben Allen Jr.
 
  # Languages and Tools:
  <p>
-  <img src="https://ubuntuhandbook.org/wp-content/uploads/2017/05/vscode-icon245.png" width="50" height="50">
-   <img src="https://ubuntuhandbook.org/wp-content/uploads/2017/05/vscode-icon245.png" width="50" height="50">
+   <img src="https://banner2.cleanpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" width="80" height="50">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="80" height="80">
-   <img src="https://ubuntuhandbook.org/wp-content/uploads/2017/05/vscode-icon245.png" width="50" height="50">
-   <img src="https://ubuntuhandbook.org/wp-content/uploads/2017/05/vscode-icon245.png" width="50" height="50">
 </p>
  
 <p>
