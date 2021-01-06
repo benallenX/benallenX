@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello :wave:
 
-<!--
-**benallenX/benallenX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ben Allen Jr.
 
-Here are some ideas to get you started:
+“You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I'm a React Developer, Who love's  to Code
+
+# My Goals for 2021
+
+- :lock: Master React.js, Javascript, Firebase, MongoDB, & MERNSTACK 
+
+ # Languages and Tools:
+ <p>
+  <img src="https://ubuntuhandbook.org/wp-content/uploads/2017/05/vscode-icon245.png" width="50" height="50">
+   <img src="https://ubuntuhandbook.org/wp-content/uploads/2017/05/vscode-icon245.png" width="50" height="50">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="80" height="80">
+   <img src="https://ubuntuhandbook.org/wp-content/uploads/2017/05/vscode-icon245.png" width="50" height="50">
+   <img src="https://ubuntuhandbook.org/wp-content/uploads/2017/05/vscode-icon245.png" width="50" height="50">
+</p>
+ 
+<p>
+  <img src="https://ubuntuhandbook.org/wp-content/uploads/2017/05/vscode-icon245.png" width="50" height="50">
+   <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_502,h_518/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" width="50" height="50">
+   <img src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" width="50" height="50">
+</p>
+ 
+
+
+
+- ⚡ Fun fact: I'm a big SneakerHead
