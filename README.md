@@ -12,7 +12,8 @@ My name is Ben Allen Jr.
 
  # Languages and Tools:
  <p>
-   <img src="https://www.kindpng.com/picc/m/452-4529239_html-css-and-javascript-logo-html-css-logo.png" width="50" height="50">
+   <img src="https://www.kindpng.com/picc/m/452-4529239_html-css-and-javascript-logo-html-css-logo.png" width="80" height="50">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1200px-Node.js_logo_2015.svg.png" width="90" height="50">
 </p>
  
 <p>
