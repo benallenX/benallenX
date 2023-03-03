@@ -6,9 +6,9 @@ My name is Ben Allen Jr.
 
 # I'm a React Developer, Who love's  to Code
 
-# My Goals for 2021
+# My Goals for 2023
 
-- :lock: Master React.js, Javascript, Firebase, MongoDB, & MERNSTACK 
+- :lock: Master React.js, Javascript, Firebase, MongoDB,Typescript & MERNSTACK 
 
  # Languages and Tools:
  <p>
