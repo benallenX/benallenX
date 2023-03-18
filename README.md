@@ -4,7 +4,7 @@ My name is Ben Allen Jr.
 
 “You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.”
 
-# I'm a React Developer, Who love's  to Code
+# I'm a React Developer, Who love's  to Code and Solve problems
 
 # My Goals for 2023
 
