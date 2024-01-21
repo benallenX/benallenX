@@ -35,19 +35,7 @@ Feel free to explore my repositories and don't hesitate to reach out if you're i
 
 Let's code and create! 🌐✨
 
----
 
-[Your GitHub Username]
-='50' height='30'>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" width="50" height="30" >
-</p>
- 
-<p>
-  <img src="https://ubuntuhandbook.org/wp-content/uploads/2017/05/vscode-icon245.png" width="50" height="50">
-   <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_502,h_518/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" width="80" height="50">
-   <img src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" width="60" height="60">
-</p>
- 
 
 
 
