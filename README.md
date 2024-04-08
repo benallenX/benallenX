@@ -7,7 +7,7 @@ My name is Ben Allen Jr.
 
 Hey there! I'm a dedicated and passionate React Developer who thrives on solving complex problems and building seamless user experiences. I have a deep-rooted love for coding that fuels my constant exploration of new technologies and frameworks. My journey in software development is driven by a curiosity to learn and a determination to excel.
 
-## 2023: A Year of Mastering and Growth 🌟
+## 2024: A Year of Mastering and Growth 🌟
 
 This year is all about pushing my boundaries and achieving new heights in my professional development. Here are my key goals:
 
