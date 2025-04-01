@@ -11,7 +11,7 @@ This year, I’m focused on **leveling up my skills** and delivering **real-worl
 1️⃣ **React.js & Next.js Mastery** – Building dynamic, responsive, and server-side applications for modern web development.  
 2️⃣ **AI-Powered Tools** – Expanding expertise in **machine learning**, **AI agents**, and **RAG (Retrieval-Augmented Generation)** systems.  
 3️⃣ **Advanced JavaScript & TypeScript Proficiency** – Refining skills for clean, maintainable, and scalable code.  
-4️⃣ **Backend Systems with Node.js and Python** – Strengthening server-side development for performance and scalability.  
+4️⃣ **Backend Systems with Node.js** – Strengthening server-side development for performance and scalability.  
 5️⃣ **Database Management (SQL, MongoDB, Neon DB)** – Designing efficient, data-driven applications.  
 6️⃣ **CI/CD Pipelines & Cloud Deployments** – Automating workflows using **Vercel**, **AWS**, and **GitHub Actions**.  
 7️⃣ **Project Showcase** – Completing **130+ mini projects** and launching **AI SaaS products** to highlight my technical growth.  
